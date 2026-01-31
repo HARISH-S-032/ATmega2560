@@ -1,3 +1,4 @@
+#include <stdint.h>
 
 #define port_dirf (*(volatile char*) 0x30)
 #define port_dirk (*(volatile char*) 0x107)
